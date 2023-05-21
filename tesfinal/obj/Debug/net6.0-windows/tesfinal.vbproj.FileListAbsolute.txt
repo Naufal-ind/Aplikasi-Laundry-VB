@@ -1,0 +1,17 @@
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\bin\Debug\net6.0-windows\tesfinal.exe
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\bin\Debug\net6.0-windows\tesfinal.deps.json
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\bin\Debug\net6.0-windows\tesfinal.runtimeconfig.json
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\bin\Debug\net6.0-windows\tesfinal.dll
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\bin\Debug\net6.0-windows\tesfinal.pdb
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.vbproj.AssemblyReference.cache
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.Form1.resources
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.vbproj.GenerateResource.cache
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.AssemblyInfoInputs.cache
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.AssemblyInfo.vb
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.vbproj.CoreCompileInputs.cache
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.dll
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\refint\tesfinal.dll
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.pdb
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\tesfinal.genruntimeconfig.cache
+C:\Users\Naufal Indiartow\source\repos\tesfinal\tesfinal\obj\Debug\net6.0-windows\ref\tesfinal.dll
